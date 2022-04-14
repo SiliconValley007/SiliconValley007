@@ -10,10 +10,11 @@
 
 ### Connect with me
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/debjeet-das-2097931b1)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/debjeet-das-2097931b1#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/debjeet-das-2097931b1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_debjeet_?igshid=YmMyMTA2M2Y=)
-&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/_debjeet_?igshid=YmMyMTA2M2Y=#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/_debjeet_?igshid=YmMyMTA2M2Y=#gh-dark-mode-only)
 
 ### Languages and Tools
 
