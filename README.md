@@ -2,10 +2,10 @@
 
 ## I'm a student, Flutter, Python Developer
 
-- 🔭 I'm currently working on my undergraduate final semester project
-- 🌱 I'm currently learning backend development using the Django framework of Python
+- 🔭 I'm currently doing my masters in computer application from BIT Mesra, Ranchi
+- 🌱 I'm currently learning backend development using the Spring framework
 - 👯 I'm looking to work with experienced and talented developers to learn more
-- 🥅 2022 Goals: Learn and contribute more to Open Source Projects
+- 🥅 2023 Goals: Learn and contribute more to Open Source Projects
 - ⚡ Fun fact: I love to draw and explore beautiful places.
 
 ### Connect with me
